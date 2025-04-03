@@ -7,3 +7,8 @@ public class Calc{
 		a=sc.nextInt();
 		b=sc.nextInt();
 		System.out.println("Sum of a and b is :"+(a+b));
+
+		System.out.println("Subtraction of a and b is :"+(a-b));
+		sc.close();
+	}
+}
